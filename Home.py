@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 #image_path = '/Users/natha/'
-image = Image.open( 'logo.png')
+image = Image.open( 'logoindia.png')
 st.sidebar.image( image, width=120 )
 
 st.sidebar.markdown('# Cury Company')
